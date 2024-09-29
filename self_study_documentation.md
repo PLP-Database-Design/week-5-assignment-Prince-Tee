@@ -87,7 +87,7 @@ db.connect((err) => {
    ```
    **Access URL**: [http://localhost:3000/patients](http://localhost:3000/patients)
 
-   ![Retrieve All Patients Screenshot](#) <!-- Insert screenshot here -->
+   ![Retrieve All Patients Screenshot](https://github.com/PLP-Database-Design/week-5-assignment-Prince-Tee/blob/main/screenshot%20of%20the%20outcome%20of%20the%20GET%20operations/patients.PNG) 
 
 2. **Retrieve All Providers**: This endpoint retrieves all providers from the database.
    ```javascript
@@ -103,7 +103,7 @@ db.connect((err) => {
    ```
    **Access URL**: [http://localhost:3000/providers](http://localhost:3000/providers)
 
-   ![Retrieve All Providers Screenshot](#) <!-- Insert screenshot here -->
+   ![Retrieve All Providers Screenshot](https://github.com/PLP-Database-Design/week-5-assignment-Prince-Tee/blob/main/screenshot%20of%20the%20outcome%20of%20the%20GET%20operations/providers.PNG)
 
 3. **Filter Patients by First Name**: This endpoint filters patients by their first name.
    ```javascript
@@ -120,7 +120,7 @@ db.connect((err) => {
    ```
    **Access URL**: [http://localhost:3000/patients/filter?first_name=John](http://localhost:3000/patients/filter?first_name=John)
 
-   ![Filter Patients by First Name Screenshot](#) <!-- Insert screenshot here -->
+   ![Filter Patients by First Name Screenshot](https://github.com/PLP-Database-Design/week-5-assignment-Prince-Tee/blob/main/screenshot%20of%20the%20outcome%20of%20the%20GET%20operations/patient%20firstname.PNG)  
 
 4. **Retrieve Providers by Specialty**: This endpoint retrieves providers by their specialty.
    ```javascript
@@ -137,7 +137,7 @@ db.connect((err) => {
    ```
    **Access URL**: [http://localhost:3000/providers/filter?specialty=Cardiology](http://localhost:3000/providers/filter?specialty=Cardiology)
 
-   ![Retrieve Providers by Specialty Screenshot]() <!-- Insert screenshot here -->
+   ![Retrieve Providers by Specialty Screenshot](https://github.com/PLP-Database-Design/week-5-assignment-Prince-Tee/blob/main/screenshot%20of%20the%20outcome%20of%20the%20GET%20operations/providers%20speciality.PNG)
 
 ---
 
